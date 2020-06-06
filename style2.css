@@ -1,0 +1,57 @@
+ 
+ .body
+ {
+     font-size:16px;
+     color: black;
+ }
+.navbar-default
+{
+    border:1px solid black;
+   
+    
+}
+.navbar-default .navbar-brand
+{
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+    
+   
+}
+.navbar
+{
+    border-radius: 0px;
+}
+.content
+{
+   margin-top: 30px;
+    background-color: grey;
+    margin-bottom: 30px;
+}
+.headin
+{margin-bottom: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+ 
+ .navbar-toggler
+ {
+     background-color:transparent;
+     border:1px solid black;
+     color: gray;
+ }
+li
+ {    background-color: grey;
+     color: black;
+     padding: 0;
+ }
+ #aa:hover
+ {
+    
+     
+     color: white;
+ }
+ hr{
+     background-color: black;
+     width: 100%;
+ }
